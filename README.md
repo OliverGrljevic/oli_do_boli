@@ -6,3 +6,5 @@ touch zadaca1.txt
 git add zadaca1.txt
 
 gedit zadaca1.txt
+
+git push
