@@ -1,4 +1,6 @@
 # oli_do_boli
-a eto, ucim nesto, zasto?...ne znam
+nisam bas tocno siguran kaj treba napraviti, al eto, napravio sam repozitorij i stavio neke linije koda, valjda je to to
 
-ovdje ce biti stavljena zadaca1
+touch zadaca1.txt
+git add zadaca1.txt
+gedit zadaca1.txt
